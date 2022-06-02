@@ -1,6 +1,7 @@
 import React from "react";
 import "./Page1.css";
 import s1 from "../assets/s1.png";
+import OrangeButton from "../components/OrangeButton";
 
 function Page1() {
   return (
@@ -22,6 +23,7 @@ function Page1() {
             Identify your skilld and find the perfect career for you/{" "}
           </b>
         </p>
+        <OrangeButton />
       </div>
       <div className="image">
         <img src={s1} alt="" />

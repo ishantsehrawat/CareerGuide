@@ -1,0 +1,11 @@
+button {
+  background-color: #e8630b;
+  border: 0px solid;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 1.5vw;
+  border-radius: 10px;
+  box-shadow: e8630b 0px 1px 1px 0px inset, e8630b 0px 50px 100px -20px,
+    e8630b 0px 30px 60px -30px;
+  color: white;
+}

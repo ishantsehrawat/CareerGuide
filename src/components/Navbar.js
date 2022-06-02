@@ -11,15 +11,21 @@ function Navbar() {
         />
       </div>
       <div className="options">
-        <a>Students</a>
-        <a>Counsellors</a>
-        <a>Professionals</a>
-        <a>Psychometric Test</a>
-        <a>Insitute</a>
-        <a>Pricing</a>
+        <a href="https://www.careerguide.com/career/career-counselling-services-for-masters-2">
+          Students
+        </a>
+        <a href="https://www.careerguide.com/career/counsellor">Counsellors</a>
+        <a href="https://www.careerguide.com/career/career-counselling-services-for-working-professionals">
+          Professionals
+        </a>
+        <a href="https://www.careerguide.com/psychometric-career-assessment">
+          Psychometric Test
+        </a>
+        <a href="https://www.careerguide.com/">Insitute</a>
+        <a href="https://www.careerguide.com/pricing">Pricing</a>
       </div>
       <div className="signin">
-        <a>Sign In</a>
+        <a href="https://www.careerguide.com/login">Sign In</a>
       </div>
     </div>
   );
