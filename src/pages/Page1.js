@@ -20,10 +20,16 @@ function Page1() {
           in career search or change <br />{" "}
           <b>
             Stop being lost and confused. Know you values, learn about yourself,
-            Identify your skilld and find the perfect career for you/{" "}
+            Identify your skilld and find the perfect career for you.{" "}
           </b>
         </p>
-        <OrangeButton />
+        <OrangeButton title="START IDEAL CAREER TEST" />
+        <p className="subcontent">
+          Get <a href="https://www.careerguide.com/">Sample Test Report</a> of
+          Buy <a href="https://www.careerguide.com/">Full Report</a> @Rs 1999
+          <br />
+          Have a <a href="https://www.careerguide.com/">Coupon Code?</a>
+        </p>
       </div>
       <div className="image">
         <img src={s1} alt="" />

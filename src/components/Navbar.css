@@ -30,6 +30,10 @@
   text-decoration: none;
 }
 
+a:hover {
+  transform: scale(1.1);
+}
+
 .signin {
   font-size: 17px;
   font-weight: 700;
@@ -38,4 +42,5 @@
 a {
   color: #494949;
   text-decoration: none;
+  transition: transform 0.2s;
 }
